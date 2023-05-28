@@ -7,6 +7,8 @@ body {
 header {
     margin: 25px 0; 
     font-size: 17px;
+    text-align: center;
+    display: block;
 }
 section.topimage {
     color: #F1EEE6;
@@ -38,7 +40,7 @@ h1,h2 {
 }
 aside nav a {
     display: block;
-    text-align: center;
+    text-align: left;
 }
 footer {
     margin: 50px 0;
