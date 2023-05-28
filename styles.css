@@ -1,0 +1,44 @@
+body {
+   align-content: center;
+   max-width: 900px; 
+   margin: auto;
+   background-color: #F1EEE6; 
+}
+header {
+    margin: 25px 0; 
+    font-size: 17px;
+}
+section.topimage {
+    color: #F1EEE6;
+    font-size: 20px;
+    text-align:center;
+    font-weight: bold;
+    background-color: #353148;
+    padding: 60px 0;
+}
+
+
+a {
+    color: #493a35;
+}
+h1 {
+    color: #353148;
+    font-size: 40px;
+}
+h2 {
+    color: #b98e68;
+}
+h1,h2 {
+   background-color: #d2cfc4;
+}
+aside nav a {
+    display: block;
+    text-align: center;
+}
+footer {
+    margin: 50px 0;
+}
+section ol {
+color: #353148;
+}
+    
