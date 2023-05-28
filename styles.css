@@ -16,7 +16,11 @@ section.topimage {
     background-color: #353148;
     padding: 60px 0;
 }
-
+img.posty {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 a {
     color: #493a35;
@@ -24,6 +28,7 @@ a {
 h1 {
     color: #353148;
     font-size: 40px;
+    text-align: center;
 }
 h2 {
     color: #b98e68;
